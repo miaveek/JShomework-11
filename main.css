@@ -1,0 +1,16 @@
+#SaveMessage{
+    display: none;
+}
+body{
+    margin: 0 auto;
+    background-color: aqua;
+}
+.loren{
+    width: 25%;
+    padding: 1%;
+    display: inline-block;
+}
+#sale{
+    position: absolute;
+    padding: 10px;
+}
